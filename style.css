@@ -320,6 +320,12 @@ p {
 	margin-bottom: 10px;
 	text-transform: uppercase;
 }
+#services .service-item h3 {
+	font-size: 2rem;
+	color: white;
+	margin-bottom: 10px;
+	text-align: left;
+}
 #services .service-item p {
 	color: white;
 	text-align: left;
