@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(CDG_blog_post_image_02-2.jpg.png);
+	background-image: url(CDG_blog_post_image_02-2.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
